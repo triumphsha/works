@@ -1,0 +1,38 @@
+[
+     {
+         "title": "电量统计",
+         "subtitle": "当前信息",
+         "source": "GaugeStatistics",
+         "unit": "%",
+         "chartType": "pie",
+         "icon": "ic_whatshot",
+         "exporting": false
+     },
+    {
+        "title": "电量分析",
+        "subtitle": "分时电量",
+        "source": "Gauge",
+        "unit": "kWh",
+        "chartType": "column",
+        "icon": "ic_whatshot",
+        "exporting": false
+     },
+     {
+         "title": "功率分析",
+         "subtitle": "有功功率",
+         "source": "ActivePower",
+         "unit": "kW",
+         "chartType": "area",
+         "icon": "ic_local_dining",
+         "exporting": false
+     },
+    {
+         "title": "电压分析",
+         "subtitle": "分时电压",
+         "source": "Voltage",
+         "unit": "V",
+         "chartType": "spline",
+         "icon": "ic_directions_walk",
+         "exporting": false
+     }
+ ]

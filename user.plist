@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>个人信息</string>
+		<key>phone</key>
+		<string></string>
+		<key>address</key>
+		<array>
+			<string></string>
+		</array>
+		<key>New item - 2</key>
+		<string></string>
+		<key>New item</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>code</key>
+		<string>HPW201802280001</string>
+		<key>linkap_name</key>
+		<string></string>
+		<key>linkap_pwd</key>
+		<string></string>
+		<key>selfap_name</key>
+		<string></string>
+		<key>selfap_pwd</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>webservername</key>
+		<string>www.muma.com</string>
+		<key>report_interval</key>
+		<string></string>
+		<key>calcday</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
